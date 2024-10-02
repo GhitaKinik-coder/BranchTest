@@ -1,0 +1,1 @@
+Campus advisors should open campus_advisor_list.txt and add their name and the school they teach at.
