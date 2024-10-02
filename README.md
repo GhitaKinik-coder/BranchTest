@@ -1,1 +1,2 @@
-Campus advisors should open campus_advisor_list.txt and add their name and the school they teach at.
+This is my first repo on GitHub 
+Questa a la mia prima repo su GitHub
